@@ -1,0 +1,86 @@
+body {
+    background-color: rgb(14, 1, 32);
+
+}
+
+h1,
+h4 {
+    text-align: center;
+    color: white;
+
+    width: 20%;
+    margin: auto;
+    font-style: oblique;
+}
+
+table,
+th,
+td {
+
+    border: 1px solid white;
+    color: whitesmoke;
+    text-align: center;
+    border-style: none;
+    height: 50px;
+
+}
+
+table {
+    width: 75%;
+    margin: auto;
+}
+
+th {
+    text-align: left;
+}
+
+.abc {
+    color: red;
+}
+
+.nav {
+    color: whitesmoke;
+
+}
+
+.col {
+    background-color: rgb(3, 3, 31);
+
+}
+
+.col1 {
+    background-color: rgb(3, 3, 31);
+
+}
+
+.col2 {
+    background-color: rgb(3, 3, 31);
+
+}
+
+.col3 {
+    background-color: rgb(3, 3, 31);
+
+}
+
+div {
+    background-color: rgb(18, 4, 80);
+    height: 500px;
+    padding: 50px;
+    width: 75%;
+    margin: auto;
+
+}
+
+
+
+td:hover {
+    transform: scale(1.1);
+    transition: 1s;
+    background-color: green;
+}
+
+img {
+    width: 9%;
+    margin-left: 950px;
+}

@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+}
+
+div {
+    border: 2px solid black;
+    width: 30%;
+    border-radius: 5px;
+    margin: auto;
+    background-color: white;
+    display: inline-block;
+
+
+
+
+
+}
+
+h3,
+h1,
+p {
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+h3 {
+    color: orangered;
+}
+
+td {
+    width: 45%;
+    text-align: center;
+    height: 80px;
+    background-color: orangered;
+    border: 2px solid black;
+    color: white;
+
+
+}
+
+div:hover {
+    transform: scale(1.1);
+    transition: 1s;
+}

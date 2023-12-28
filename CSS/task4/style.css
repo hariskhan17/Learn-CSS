@@ -1,0 +1,13 @@
+.nav {
+    
+    background-color: aquamarine;
+    list-style-type: none;
+    display: inline-block;
+    
+
+}
+
+a {
+    text-decoration: none;
+
+

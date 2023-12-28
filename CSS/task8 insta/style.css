@@ -1,0 +1,64 @@
+.hbd {
+    margin: auto;
+    text-align: center;
+
+
+}
+
+.abc {
+    display: flex;
+    flex-direction: row;
+    height: 600px;
+    margin-left: 100px;
+
+}
+
+fieldset {
+    width: 23%;
+    margin-top: 50px;
+    height: 370px;
+
+}
+
+input {
+    width: 70%;
+    height: 30px;
+}
+
+button {
+    width: 73%;
+    height: 35px;
+    border-radius: 8px;
+    background-color: rgba(0, 0, 255, 0.712);
+    border-style: none;
+    color: white;
+    font-weight: bold;
+
+}
+
+.abc1 {
+    position: absolute;
+    width: 20px;
+
+
+}
+
+
+h5 {
+    display: inline-block;
+    margin-right: 50px;
+}
+
+p {
+    margin-left: 10px;
+}
+
+.hr {
+    position: absolute;
+    right: 438px;
+    top:400px;
+    width: 21%;
+    margin-top: 50px;
+    height: 50px;
+}
+

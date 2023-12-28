@@ -1,0 +1,16 @@
+.btn1{
+    position: fixed;
+    top: 150px;
+    right: 20px;
+    font-size: xx-large;
+    background-color: rgb(29, 255, 130);
+    border-style: none;
+    border-radius: 10px;
+    width: 50px;
+
+}
+p{
+    background-color: black;
+    color: white;
+    text-align: justify;
+}
